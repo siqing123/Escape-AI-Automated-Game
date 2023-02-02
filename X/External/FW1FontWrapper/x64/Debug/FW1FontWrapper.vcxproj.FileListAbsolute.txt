@@ -1,0 +1,2 @@
+C:\VGP332\x64\Debug\FW1FontWrapper.pdb
+C:\VGP332\X\External\FW1FontWrapper\x64\Debug\FW1FontWrapper.pdb

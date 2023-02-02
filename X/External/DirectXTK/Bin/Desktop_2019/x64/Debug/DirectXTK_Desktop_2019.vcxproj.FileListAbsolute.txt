@@ -1,0 +1,5 @@
+C:\VGP332\X\External\DirectXTK\Bin\Desktop_2019\x64\Debug\DirectXTK.lib
+C:\VGP332\X\External\DirectXTK\Bin\Desktop_2019\x64\Debug\DirectXTK.pdb
+C:\Users\g1864\Documents\计算机语言\c++\AI(2019)\X\External\DirectXTK\Bin\Desktop_2019\x64\Debug\DirectXTK.lib
+C:\Users\Administrator\Desktop\c++\AI(2019)\X\External\DirectXTK\Bin\Desktop_2019\x64\Debug\DirectXTK.lib
+C:\Users\18640\Desktop\c++\AI(2019)\X\External\DirectXTK\Bin\Desktop_2019\x64\Debug\DirectXTK.lib

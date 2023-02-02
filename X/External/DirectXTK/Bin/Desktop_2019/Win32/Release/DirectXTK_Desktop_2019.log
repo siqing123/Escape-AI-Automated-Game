@@ -1,0 +1,33 @@
+﻿  AlphaTestEffect.cpp
+  BasicEffect.cpp
+C:\Users\18640\Desktop\c++\AI(2019)\X\External\DirectXTK\Src\EffectCommon.h(40,23): warning C5264: 'DirectX::EffectDirtyFlags::AlphaTest': 'const' variable is not used
+  BasicPostProcess.cpp
+  DGSLEffect.cpp
+C:\Users\18640\Desktop\c++\AI(2019)\X\External\DirectXTK\Src\EffectCommon.h(40,23): warning C5264: 'DirectX::EffectDirtyFlags::AlphaTest': 'const' variable is not used
+C:\Users\18640\Desktop\c++\AI(2019)\X\External\DirectXTK\Src\EffectCommon.h(39,23): warning C5264: 'DirectX::EffectDirtyFlags::FogEnable': 'const' variable is not used
+C:\Users\18640\Desktop\c++\AI(2019)\X\External\DirectXTK\Src\EffectCommon.h(38,23): warning C5264: 'DirectX::EffectDirtyFlags::FogVector': 'const' variable is not used
+C:\Users\18640\Desktop\c++\AI(2019)\X\External\DirectXTK\Src\EffectCommon.h(37,23): warning C5264: 'DirectX::EffectDirtyFlags::MaterialColor': 'const' variable is not used
+  DebugEffect.cpp
+C:\Users\18640\Desktop\c++\AI(2019)\X\External\DirectXTK\Src\EffectCommon.h(40,23): warning C5264: 'DirectX::EffectDirtyFlags::AlphaTest': 'const' variable is not used
+C:\Users\18640\Desktop\c++\AI(2019)\X\External\DirectXTK\Src\EffectCommon.h(39,23): warning C5264: 'DirectX::EffectDirtyFlags::FogEnable': 'const' variable is not used
+C:\Users\18640\Desktop\c++\AI(2019)\X\External\DirectXTK\Src\EffectCommon.h(38,23): warning C5264: 'DirectX::EffectDirtyFlags::FogVector': 'const' variable is not used
+C:\Users\18640\Desktop\c++\AI(2019)\X\External\DirectXTK\Src\EffectCommon.h(37,23): warning C5264: 'DirectX::EffectDirtyFlags::MaterialColor': 'const' variable is not used
+C:\Users\18640\Desktop\c++\AI(2019)\X\External\DirectXTK\Src\EffectCommon.h(36,23): warning C5264: 'DirectX::EffectDirtyFlags::EyePosition': 'const' variable is not used
+  DualPostProcess.cpp
+  DualTextureEffect.cpp
+C:\Users\18640\Desktop\c++\AI(2019)\X\External\DirectXTK\Src\EffectCommon.h(40,23): warning C5264: 'DirectX::EffectDirtyFlags::AlphaTest': 'const' variable is not used
+  EnvironmentMapEffect.cpp
+C:\Users\18640\Desktop\c++\AI(2019)\X\External\DirectXTK\Src\EffectCommon.h(40,23): warning C5264: 'DirectX::EffectDirtyFlags::AlphaTest': 'const' variable is not used
+  NormalMapEffect.cpp
+C:\Users\18640\Desktop\c++\AI(2019)\X\External\DirectXTK\Src\EffectCommon.h(40,23): warning C5264: 'DirectX::EffectDirtyFlags::AlphaTest': 'const' variable is not used
+  PBREffect.cpp
+C:\Users\18640\Desktop\c++\AI(2019)\X\External\DirectXTK\Src\EffectCommon.h(40,23): warning C5264: 'DirectX::EffectDirtyFlags::AlphaTest': 'const' variable is not used
+C:\Users\18640\Desktop\c++\AI(2019)\X\External\DirectXTK\Src\EffectCommon.h(39,23): warning C5264: 'DirectX::EffectDirtyFlags::FogEnable': 'const' variable is not used
+C:\Users\18640\Desktop\c++\AI(2019)\X\External\DirectXTK\Src\EffectCommon.h(38,23): warning C5264: 'DirectX::EffectDirtyFlags::FogVector': 'const' variable is not used
+C:\Users\18640\Desktop\c++\AI(2019)\X\External\DirectXTK\Src\EffectCommon.h(37,23): warning C5264: 'DirectX::EffectDirtyFlags::MaterialColor': 'const' variable is not used
+  SkinnedEffect.cpp
+C:\Users\18640\Desktop\c++\AI(2019)\X\External\DirectXTK\Src\EffectCommon.h(40,23): warning C5264: 'DirectX::EffectDirtyFlags::AlphaTest': 'const' variable is not used
+  SpriteBatch.cpp
+  ToneMapPostProcess.cpp
+  Generating Code...
+  DirectXTK_Desktop_2019.vcxproj -> C:\Users\18640\Desktop\c++\AI(2019)\X\External\DirectXTK\Bin\Desktop_2019\Win32\Release\DirectXTK.lib

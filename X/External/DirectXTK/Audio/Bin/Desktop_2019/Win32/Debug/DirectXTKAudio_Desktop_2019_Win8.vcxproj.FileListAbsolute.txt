@@ -1,0 +1,1 @@
+C:\Users\18640\Desktop\c++\AI(2019)\X\External\DirectXTK\Audio\Bin\Desktop_2019\Win32\Debug\DirectXTKAudioWin8.lib

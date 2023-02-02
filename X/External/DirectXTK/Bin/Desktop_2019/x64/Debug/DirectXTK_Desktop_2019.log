@@ -1,0 +1,121 @@
+﻿  pch.cpp
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.19041.0\winrt\roapi.h(188,21): warning C5264: '_GUID_00000000_0000_0000_0000_000000000000': 'const' variable is not used
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.19041.0\winrt\wrl\implements.h(294,121): warning C5264: '_GUID_af86e2e0_b12d_4c6a_9c5a_d7aa65101e90': 'const' variable is not used
+C:\Program Files\Microsoft Visual Studio\2022\Community\VC\Tools\MSVC\14.34.31933\include\functional(2037,34): warning C5264: 'std::placeholders::_4': 'const' variable is not used
+C:\Program Files\Microsoft Visual Studio\2022\Community\VC\Tools\MSVC\14.34.31933\include\functional(2035,34): warning C5264: 'std::placeholders::_2': 'const' variable is not used
+C:\Program Files\Microsoft Visual Studio\2022\Community\VC\Tools\MSVC\14.34.31933\include\functional(2036,34): warning C5264: 'std::placeholders::_3': 'const' variable is not used
+C:\Program Files\Microsoft Visual Studio\2022\Community\VC\Tools\MSVC\14.34.31933\include\functional(2034,34): warning C5264: 'std::placeholders::_1': 'const' variable is not used
+C:\Program Files\Microsoft Visual Studio\2022\Community\VC\Tools\MSVC\14.34.31933\include\functional(2051,35): warning C5264: 'std::placeholders::_18': 'const' variable is not used
+C:\Program Files\Microsoft Visual Studio\2022\Community\VC\Tools\MSVC\14.34.31933\include\functional(2038,34): warning C5264: 'std::placeholders::_5': 'const' variable is not used
+C:\Program Files\Microsoft Visual Studio\2022\Community\VC\Tools\MSVC\14.34.31933\include\functional(2052,35): warning C5264: 'std::placeholders::_19': 'const' variable is not used
+C:\Program Files\Microsoft Visual Studio\2022\Community\VC\Tools\MSVC\14.34.31933\include\functional(2047,35): warning C5264: 'std::placeholders::_14': 'const' variable is not used
+C:\Program Files\Microsoft Visual Studio\2022\Community\VC\Tools\MSVC\14.34.31933\include\functional(2040,34): warning C5264: 'std::placeholders::_7': 'const' variable is not used
+C:\Program Files\Microsoft Visual Studio\2022\Community\VC\Tools\MSVC\14.34.31933\include\functional(2046,35): warning C5264: 'std::placeholders::_13': 'const' variable is not used
+C:\Program Files\Microsoft Visual Studio\2022\Community\VC\Tools\MSVC\14.34.31933\include\functional(2045,35): warning C5264: 'std::placeholders::_12': 'const' variable is not used
+C:\Program Files\Microsoft Visual Studio\2022\Community\VC\Tools\MSVC\14.34.31933\include\functional(2042,34): warning C5264: 'std::placeholders::_9': 'const' variable is not used
+C:\Program Files\Microsoft Visual Studio\2022\Community\VC\Tools\MSVC\14.34.31933\include\functional(2041,34): warning C5264: 'std::placeholders::_8': 'const' variable is not used
+C:\Program Files\Microsoft Visual Studio\2022\Community\VC\Tools\MSVC\14.34.31933\include\functional(2049,35): warning C5264: 'std::placeholders::_16': 'const' variable is not used
+C:\Program Files\Microsoft Visual Studio\2022\Community\VC\Tools\MSVC\14.34.31933\include\functional(2044,35): warning C5264: 'std::placeholders::_11': 'const' variable is not used
+C:\Program Files\Microsoft Visual Studio\2022\Community\VC\Tools\MSVC\14.34.31933\include\functional(2053,35): warning C5264: 'std::placeholders::_20': 'const' variable is not used
+C:\Program Files\Microsoft Visual Studio\2022\Community\VC\Tools\MSVC\14.34.31933\include\functional(2043,35): warning C5264: 'std::placeholders::_10': 'const' variable is not used
+C:\Program Files\Microsoft Visual Studio\2022\Community\VC\Tools\MSVC\14.34.31933\include\functional(2048,35): warning C5264: 'std::placeholders::_15': 'const' variable is not used
+C:\Program Files\Microsoft Visual Studio\2022\Community\VC\Tools\MSVC\14.34.31933\include\functional(2039,34): warning C5264: 'std::placeholders::_6': 'const' variable is not used
+C:\Program Files\Microsoft Visual Studio\2022\Community\VC\Tools\MSVC\14.34.31933\include\functional(2050,35): warning C5264: 'std::placeholders::_17': 'const' variable is not used
+C:\Program Files\Microsoft Visual Studio\2022\Community\VC\Tools\MSVC\14.34.31933\include\utility(127,39): warning C5264: 'std::allocator_arg': 'const' variable is not used
+C:\Program Files\Microsoft Visual Studio\2022\Community\VC\Tools\MSVC\14.34.31933\include\__msvc_chrono.hpp(75,32): warning C5264: 'std::chrono::_Is_duration_v<std::chrono::seconds>': 'const' variable is not used
+C:\Program Files\Microsoft Visual Studio\2022\Community\VC\Tools\MSVC\14.34.31933\include\__msvc_chrono.hpp(75,32): warning C5264: 'std::chrono::_Is_duration_v<std::chrono::duration<double,std::ratio<1,1>>>': 'const' variable is not used
+C:\Program Files\Microsoft Visual Studio\2022\Community\VC\Tools\MSVC\14.34.31933\include\__msvc_chrono.hpp(35,32): warning C5264: 'std::chrono::treat_as_floating_point_v<long double>': 'const' variable is not used
+C:\Program Files\Microsoft Visual Studio\2022\Community\VC\Tools\MSVC\14.34.31933\include\__msvc_chrono.hpp(35,32): warning C5264: 'std::chrono::treat_as_floating_point_v<unsigned __int64>': 'const' variable is not used
+C:\Program Files\Microsoft Visual Studio\2022\Community\VC\Tools\MSVC\14.34.31933\include\__msvc_chrono.hpp(35,32): warning C5264: 'std::chrono::treat_as_floating_point_v<std::chrono::duration<__int64,std::nano>>': 'const' variable is not used
+C:\Program Files\Microsoft Visual Studio\2022\Community\VC\Tools\MSVC\14.34.31933\include\__msvc_chrono.hpp(35,32): warning C5264: 'std::chrono::treat_as_floating_point_v<std::chrono::duration<int,std::ratio<3600,1>>>': 'const' variable is not used
+C:\Program Files\Microsoft Visual Studio\2022\Community\VC\Tools\MSVC\14.34.31933\include\mutex(534,37): warning C5264: 'std::_Init_once_init_failed': 'const' variable is not used
+C:\Program Files\Microsoft Visual Studio\2022\Community\VC\Tools\MSVC\14.34.31933\include\system_error(44,28): warning C5264: 'std::is_error_code_enum_v<int>': 'const' variable is not used
+C:\Program Files\Microsoft Visual Studio\2022\Community\VC\Tools\MSVC\14.34.31933\include\system_error(44,28): warning C5264: 'std::is_error_code_enum_v<std::error_condition>': 'const' variable is not used
+C:\Program Files\Microsoft Visual Studio\2022\Community\VC\Tools\MSVC\14.34.31933\include\system_error(44,28): warning C5264: 'std::is_error_code_enum_v<std::error_code>': 'const' variable is not used
+C:\Program Files\Microsoft Visual Studio\2022\Community\VC\Tools\MSVC\14.34.31933\include\system_error(44,28): warning C5264: 'std::is_error_code_enum_v<std::system_error>': 'const' variable is not used
+C:\Program Files\Microsoft Visual Studio\2022\Community\VC\Tools\MSVC\14.34.31933\include\mutex(121,36): warning C5264: 'std::defer_lock': 'const' variable is not used
+C:\Program Files\Microsoft Visual Studio\2022\Community\VC\Tools\MSVC\14.34.31933\include\xutility(812,28): warning C5264: 'std::?$_Is_iterator_v@$RBAAB@$$Yvoid_t@std@@$std:?$iterator_traits@$RBAAB@:iterator_category:<char*,void>': 'const' variable is not used
+C:\Program Files\Microsoft Visual Studio\2022\Community\VC\Tools\MSVC\14.34.31933\include\xutility(812,28): warning C5264: 'std::?$_Is_iterator_v@$RBAAB@$$Yvoid_t@std@@$std:?$iterator_traits@$RBAAB@:iterator_category:<wchar_t*,void>': 'const' variable is not used
+C:\Program Files\Microsoft Visual Studio\2022\Community\VC\Tools\MSVC\14.34.31933\include\type_traits(339,28): warning C5264: 'std::is_convertible_v<const __int64&,std::chrono::system_clock::rep>': 'const' variable is not used
+C:\Program Files\Microsoft Visual Studio\2022\Community\VC\Tools\MSVC\14.34.31933\include\type_traits(339,28): warning C5264: 'std::is_convertible_v<const int&,int>': 'const' variable is not used
+C:\Program Files\Microsoft Visual Studio\2022\Community\VC\Tools\MSVC\14.34.31933\include\type_traits(339,28): warning C5264: 'std::is_convertible_v<const std::chrono::duration<int,std::ratio<3600,1>>&,__int64>': 'const' variable is not used
+C:\Program Files\Microsoft Visual Studio\2022\Community\VC\Tools\MSVC\14.34.31933\include\type_traits(339,28): warning C5264: 'std::is_convertible_v<const std::chrono::duration<__int64,std::nano>&,double>': 'const' variable is not used
+C:\Program Files\Microsoft Visual Studio\2022\Community\VC\Tools\MSVC\14.34.31933\include\type_traits(339,28): warning C5264: 'std::is_convertible_v<const _ToRep&,double>': 'const' variable is not used
+C:\Program Files\Microsoft Visual Studio\2022\Community\VC\Tools\MSVC\14.34.31933\include\type_traits(339,28): warning C5264: 'std::is_convertible_v<const unsigned __int64&,int>': 'const' variable is not used
+C:\Program Files\Microsoft Visual Studio\2022\Community\VC\Tools\MSVC\14.34.31933\include\type_traits(339,28): warning C5264: 'std::is_convertible_v<const long double&,double>': 'const' variable is not used
+C:\Program Files\Microsoft Visual Studio\2022\Community\VC\Tools\MSVC\14.34.31933\include\type_traits(339,28): warning C5264: 'std::is_convertible_v<const unsigned __int64&,__int64>': 'const' variable is not used
+C:\Program Files\Microsoft Visual Studio\2022\Community\VC\Tools\MSVC\14.34.31933\include\utility(114,45): warning C5264: 'std::piecewise_construct': 'const' variable is not used
+C:\Program Files\Microsoft Visual Studio\2022\Community\VC\Tools\MSVC\14.34.31933\include\limits(1197,16): warning C5264: 'std::_Is_standard_unsigned_integer<std::_Vbase>': 'const' variable is not used
+C:\Program Files\Microsoft Visual Studio\2022\Community\VC\Tools\MSVC\14.34.31933\include\tuple(132,31): warning C5264: 'std::ignore': 'const' variable is not used
+C:\Program Files\Microsoft Visual Studio\2022\Community\VC\Tools\MSVC\14.34.31933\include\mutex(122,37): warning C5264: 'std::try_to_lock': 'const' variable is not used
+C:\Program Files\Microsoft Visual Studio\2022\Community\VC\Tools\MSVC\14.34.31933\include\mutex(120,36): warning C5264: 'std::adopt_lock': 'const' variable is not used
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.19041.0\um\DirectXMath.h(251,17): warning C5264: 'DirectX::XM_CACHE_LINE_SIZE': 'const' variable is not used
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.19041.0\um\DirectXMath.h(239,19): warning C5264: 'DirectX::XM_PERMUTE_1W': 'const' variable is not used
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.19041.0\winrt\wrl\module.h(310,68): warning C5264: '_GUID_00000035_0000_0000_c000_000000000046': 'const' variable is not used
+  AlphaTestEffect.cpp
+  BasicEffect.cpp
+C:\Users\18640\Desktop\c++\AI(2019)\X\External\DirectXTK\Src\EffectCommon.h(40,23): warning C5264: 'DirectX::EffectDirtyFlags::AlphaTest': 'const' variable is not used
+  BasicPostProcess.cpp
+  BufferHelpers.cpp
+  CommonStates.cpp
+  DDSTextureLoader.cpp
+  DebugEffect.cpp
+C:\Users\18640\Desktop\c++\AI(2019)\X\External\DirectXTK\Src\EffectCommon.h(40,23): warning C5264: 'DirectX::EffectDirtyFlags::AlphaTest': 'const' variable is not used
+C:\Users\18640\Desktop\c++\AI(2019)\X\External\DirectXTK\Src\EffectCommon.h(39,23): warning C5264: 'DirectX::EffectDirtyFlags::FogEnable': 'const' variable is not used
+C:\Users\18640\Desktop\c++\AI(2019)\X\External\DirectXTK\Src\EffectCommon.h(38,23): warning C5264: 'DirectX::EffectDirtyFlags::FogVector': 'const' variable is not used
+C:\Users\18640\Desktop\c++\AI(2019)\X\External\DirectXTK\Src\EffectCommon.h(37,23): warning C5264: 'DirectX::EffectDirtyFlags::MaterialColor': 'const' variable is not used
+C:\Users\18640\Desktop\c++\AI(2019)\X\External\DirectXTK\Src\EffectCommon.h(36,23): warning C5264: 'DirectX::EffectDirtyFlags::EyePosition': 'const' variable is not used
+  DGSLEffect.cpp
+C:\Users\18640\Desktop\c++\AI(2019)\X\External\DirectXTK\Src\EffectCommon.h(40,23): warning C5264: 'DirectX::EffectDirtyFlags::AlphaTest': 'const' variable is not used
+C:\Users\18640\Desktop\c++\AI(2019)\X\External\DirectXTK\Src\EffectCommon.h(39,23): warning C5264: 'DirectX::EffectDirtyFlags::FogEnable': 'const' variable is not used
+C:\Users\18640\Desktop\c++\AI(2019)\X\External\DirectXTK\Src\EffectCommon.h(38,23): warning C5264: 'DirectX::EffectDirtyFlags::FogVector': 'const' variable is not used
+C:\Users\18640\Desktop\c++\AI(2019)\X\External\DirectXTK\Src\EffectCommon.h(37,23): warning C5264: 'DirectX::EffectDirtyFlags::MaterialColor': 'const' variable is not used
+  DGSLEffectFactory.cpp
+  DirectXHelpers.cpp
+  DualPostProcess.cpp
+  DualTextureEffect.cpp
+C:\Users\18640\Desktop\c++\AI(2019)\X\External\DirectXTK\Src\EffectCommon.h(40,23): warning C5264: 'DirectX::EffectDirtyFlags::AlphaTest': 'const' variable is not used
+  BinaryReader.cpp
+  EffectCommon.cpp
+C:\Users\18640\Desktop\c++\AI(2019)\X\External\DirectXTK\Src\EffectCommon.h(40,23): warning C5264: 'DirectX::EffectDirtyFlags::AlphaTest': 'const' variable is not used
+  EffectFactory.cpp
+  EnvironmentMapEffect.cpp
+C:\Users\18640\Desktop\c++\AI(2019)\X\External\DirectXTK\Src\EffectCommon.h(40,23): warning C5264: 'DirectX::EffectDirtyFlags::AlphaTest': 'const' variable is not used
+  GamePad.cpp
+C:\Users\18640\Desktop\c++\AI(2019)\X\External\DirectXTK\Src\GamePad.cpp(22,21): warning C5264: '`anonymous-namespace'::c_XboxOneThumbDeadZone': 'const' variable is not used
+  GeometricPrimitive.cpp
+  Geometry.cpp
+  GraphicsMemory.cpp
+  Generating Code...
+  Compiling...
+  Keyboard.cpp
+  Model.cpp
+  ModelLoadCMO.cpp
+  ModelLoadSDKMESH.cpp
+C:\Users\18640\Desktop\c++\AI(2019)\X\External\DirectXTK\Src\SDKMesh.h(124,24): warning C5264: 'DXUT::INVALID_ANIMATION_DATA': 'const' variable is not used
+C:\Users\18640\Desktop\c++\AI(2019)\X\External\DirectXTK\Src\SDKMesh.h(123,24): warning C5264: 'DXUT::INVALID_SUBSET': 'const' variable is not used
+C:\Users\18640\Desktop\c++\AI(2019)\X\External\DirectXTK\Src\SDKMesh.h(122,24): warning C5264: 'DXUT::INVALID_MATERIAL': 'const' variable is not used
+C:\Users\18640\Desktop\c++\AI(2019)\X\External\DirectXTK\Src\SDKMesh.h(121,24): warning C5264: 'DXUT::INVALID_MESH': 'const' variable is not used
+C:\Users\18640\Desktop\c++\AI(2019)\X\External\DirectXTK\Src\SDKMesh.h(120,24): warning C5264: 'DXUT::INVALID_FRAME': 'const' variable is not used
+  ModelLoadVBO.cpp
+  Mouse.cpp
+  NormalMapEffect.cpp
+C:\Users\18640\Desktop\c++\AI(2019)\X\External\DirectXTK\Src\EffectCommon.h(40,23): warning C5264: 'DirectX::EffectDirtyFlags::AlphaTest': 'const' variable is not used
+  PBREffect.cpp
+C:\Users\18640\Desktop\c++\AI(2019)\X\External\DirectXTK\Src\EffectCommon.h(40,23): warning C5264: 'DirectX::EffectDirtyFlags::AlphaTest': 'const' variable is not used
+C:\Users\18640\Desktop\c++\AI(2019)\X\External\DirectXTK\Src\EffectCommon.h(39,23): warning C5264: 'DirectX::EffectDirtyFlags::FogEnable': 'const' variable is not used
+C:\Users\18640\Desktop\c++\AI(2019)\X\External\DirectXTK\Src\EffectCommon.h(38,23): warning C5264: 'DirectX::EffectDirtyFlags::FogVector': 'const' variable is not used
+C:\Users\18640\Desktop\c++\AI(2019)\X\External\DirectXTK\Src\EffectCommon.h(37,23): warning C5264: 'DirectX::EffectDirtyFlags::MaterialColor': 'const' variable is not used
+  PBREffectFactory.cpp
+  ScreenGrab.cpp
+  SimpleMath.cpp
+  SkinnedEffect.cpp
+C:\Users\18640\Desktop\c++\AI(2019)\X\External\DirectXTK\Src\EffectCommon.h(40,23): warning C5264: 'DirectX::EffectDirtyFlags::AlphaTest': 'const' variable is not used
+  SpriteBatch.cpp
+  PrimitiveBatch.cpp
+  SpriteFont.cpp
+  ToneMapPostProcess.cpp
+  VertexTypes.cpp
+  WICTextureLoader.cpp
+  Generating Code...
+  DirectXTK_Desktop_2019.vcxproj -> C:\Users\18640\Desktop\c++\AI(2019)\X\External\DirectXTK\Bin\Desktop_2019\x64\Debug\DirectXTK.lib
